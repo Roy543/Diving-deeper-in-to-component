@@ -19,12 +19,3 @@ export default {
   props: ['fullName', 'infoText', 'role'],
 };
 </script>
-
-<style>
-
-/* section div {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-} */
-</style>
